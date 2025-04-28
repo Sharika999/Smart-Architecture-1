@@ -1,4 +1,4 @@
-# Smart Architecture - Your Interior Designing Companion
+## Smart Architecture - Your Interior Designing Companion
 
 
 Smart Architecture is your ultimate companion for interior designing, bringing innovation and convenience to the process of renovating and designing living spaces. Developed with Flutter and Firebase, Smart Architecture offers a comprehensive platform for users to connect with local architects, visualize room renovations in 3D, experiment with furniture in augmented reality, and much more.
